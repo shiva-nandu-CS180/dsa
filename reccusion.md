@@ -246,7 +246,7 @@ int main() {
 * [✓] Factorial
 * [✓] Print 1 to n
 * [✓] Print n to 1
-* [ ] Sum of array
+* [✓] Sum of array
 * [ ] Reverse a string
 * [ ] Decimal to binary
 * [ ] Sum of digits
