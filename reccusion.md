@@ -245,7 +245,7 @@ int main() {
 ## 🟢 Easy Problems
 * [✓] Factorial
 * [✓] Print 1 to n
-* [ ] Print n to 1
+* [✓] Print n to 1
 * [ ] Sum of array
 * [ ] Reverse a string
 * [ ] Decimal to binary
