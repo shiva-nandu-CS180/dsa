@@ -1,5 +1,5 @@
 **Programming Rust Book - Progress Tracker**
-
+x
 **Front Matter:**
 - [x] Read Foreword by Nicholas Matsakis and Aaron Turon ✓
 - [x] Read Acknowledgments ✓
