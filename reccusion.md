@@ -242,18 +242,18 @@ int main() {
 ---
 ##  Recursion Roadmap
 ---
-## 🟢 Easy Problems
+##  Easy Problems
 * [✓] Factorial
 * [✓] Print 1 to n
 * [✓] Print n to 1
 * [✓] Sum of array
 * [✓] Reverse a string
-* [ ] Decimal to binary
+* [✓] Decimal to binary
 * [ ] Sum of digits
 * [ ] Array Min and Max
 * [ ] Palindrome Check
 ---
-## 🟡 Medium Problems
+## Medium Problems
 * [ ] Mean of Array
 * [ ] Adjacent duplicates
 * [ ] Coin Change
@@ -266,7 +266,7 @@ int main() {
 * [ ] Possible paths in matrix
 * [ ] Combinations of Parentheses
 ---
-## 🔴 Hard Problems
+##  Hard Problems
 * [ ] Sort a Queue
 * [ ] Sort a Stack
 * [ ] Palindromic Partitions
