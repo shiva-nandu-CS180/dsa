@@ -2,7 +2,7 @@
 
 | # | Category | Patterns | Status |
 |---|----------|----------|--------|
-| **I** | Two Pointer Patterns | ⬜  |
+| **I** | Two Pointer Patterns | >/ |
 | **II** | Sliding Window Patterns |  ⬜ |
 | **IX** | Binary Search Patterns |  ⬜ |
 | **X** | Stack Patterns |  ⬜  |
