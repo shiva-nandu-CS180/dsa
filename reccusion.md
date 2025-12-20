@@ -251,7 +251,7 @@ int main() {
 * [✓] Decimal to binary
 * [✓] Sum of digits
 * [✓] Array Min and Max
-* [ ] Palindrome Check
+* [✓] Palindrome Check
 ---
 ## Medium Problems
 * [ ] Mean of Array
